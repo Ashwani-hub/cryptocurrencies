@@ -14,12 +14,12 @@ Following methods were used for the analysis
 * Create visualization results with 2D and 3D scatter plots.
 
 ## Resources
-* Data Sources: crypto_data.csv (Retrieved from  CryptoCompare)
+* Data Sources: crypto_data.csv (Retrieved from Â CryptoCompare)
 * Software: Python 3.7.10, Conda 4.10.3, Jupyter Notebook 6.3.0
 
 ## Results
 
-### Clustering Cryptocurrencies using K-Means – Elbow Curve
+### Clustering Cryptocurrencies using K-Means â€“ Elbow Curve
 
 An output of 4 clusters was decided based on the Elbow Curve.
 
@@ -27,9 +27,7 @@ An output of 4 clusters was decided based on the Elbow Curve.
 
 #### 3D-Scatter plot with clusters
 
-
-#### 2D-Scatter plot with clusters
-
+![image](https://user-images.githubusercontent.com/82815722/133134012-54d53ce4-3ec9-4c20-aac5-6e46e02b41f7.png)
 
 ## Summary
 
